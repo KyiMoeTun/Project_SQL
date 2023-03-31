@@ -1,4 +1,4 @@
-https://github.com/XD-DENG/SQL-exercise/blob/master/SQL_exercise_01/1_build_schema.sql
+-- https://github.com/XD-DENG/SQL-exercise/blob/master/SQL_exercise_01/1_build_schema.sql
 
 CREATE TABLE Manufacturers (
   Code INTEGER,
